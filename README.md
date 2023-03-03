@@ -20,7 +20,11 @@
   This application utilizes the following packages: Express, Webpack (and its server and PWA manifest packages), Babel, CSS-loader, Concurrently, and IndexedDb. These libraries are all found in the package.json. 
 
   ## Installation
-  This application is hosted on Heroku! Please go to the following link, <INSERT LINK!!!> and open the application there! Once the app is opened, users are able to download it. If the heroku deployment fails or expires in the future, users can also download this github repo. Once done, open it with a coding enviornment, like VS Code. In VS Code, and in the proper directory, users can type npm i to install dependencies. Typing npm start will build the dist folder and launch the app on the given local port (3000).
+  This application is hosted on Heroku! Please go to the following linkand open the application there!
+<br>
+https://challenge-19-jate-pwa-joshuaor.herokuapp.com/
+<br>
+ Once the app is opened, users are able to download it. If the heroku deployment fails or expires in the future, users can also download this github repo. Once done, open it with a coding enviornment, like VS Code. In VS Code, and in the proper directory, users can type npm i to install dependencies. Typing npm start will build the dist folder and launch the app on the given local port (3000).
 
   ## Useage
   The app itself is very simple! Once opened (locally or in browser), users can type whatever they want in JEST. If they leave the program and come back, whatever was typed will remain there! This persistance should last for 30 days. 
